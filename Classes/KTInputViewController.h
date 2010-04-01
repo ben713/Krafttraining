@@ -12,7 +12,7 @@
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 
-@interface KTInputViewController : UIViewController {
+@interface KTInputViewController : UIViewController <UITextFieldDelegate> {
     IBOutlet UITextField *maximumWeight;
     IBOutlet UISlider *slider;
 	IBOutlet KTInputTableViewController *ktInputTableViewController;

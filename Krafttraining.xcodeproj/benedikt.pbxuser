@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* KrafttrainingAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {889, 452}}";
+			sepNavIntBoundsRect = "{{0, 0}, {889, 463}}";
 			sepNavSelRange = "{574, 0}";
 			sepNavVisRange = "{0, 627}";
 		};
 	};
 	1D3623250D0F684500981E51 /* KrafttrainingAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {957, 756}}";
-			sepNavSelRange = "{1075, 0}";
-			sepNavVisRange = "{219, 1238}";
+			sepNavIntBoundsRect = "{{0, 0}, {889, 686}}";
+			sepNavSelRange = "{643, 0}";
+			sepNavVisRange = "{0, 1086}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Krafttraining */ = {
@@ -129,6 +129,19 @@
 			8DE2730111644939009C2CD8 /* PBXTextBookmark */ = 8DE2730111644939009C2CD8 /* PBXTextBookmark */;
 			8DE2730211644939009C2CD8 /* PBXTextBookmark */ = 8DE2730211644939009C2CD8 /* PBXTextBookmark */;
 			8DE2730311644939009C2CD8 /* PBXTextBookmark */ = 8DE2730311644939009C2CD8 /* PBXTextBookmark */;
+			8DE2731911644E40009C2CD8 /* PBXTextBookmark */ = 8DE2731911644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2731A11644E40009C2CD8 /* PBXTextBookmark */ = 8DE2731A11644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2731B11644E40009C2CD8 /* PBXTextBookmark */ = 8DE2731B11644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2731C11644E40009C2CD8 /* PBXTextBookmark */ = 8DE2731C11644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2731D11644E40009C2CD8 /* PBXTextBookmark */ = 8DE2731D11644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2731E11644E40009C2CD8 /* PBXTextBookmark */ = 8DE2731E11644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2731F11644E40009C2CD8 /* PBXTextBookmark */ = 8DE2731F11644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2732011644E40009C2CD8 /* PBXTextBookmark */ = 8DE2732011644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2732111644E40009C2CD8 /* PBXTextBookmark */ = 8DE2732111644E40009C2CD8 /* PBXTextBookmark */;
+			8DE2732911644FA0009C2CD8 /* PBXTextBookmark */ = 8DE2732911644FA0009C2CD8 /* PBXTextBookmark */;
+			8DE2732A11644FA0009C2CD8 /* PBXTextBookmark */ = 8DE2732A11644FA0009C2CD8 /* PBXTextBookmark */;
+			8DE2732B11644FA0009C2CD8 /* PBXTextBookmark */ = 8DE2732B11644FA0009C2CD8 /* PBXTextBookmark */;
+			8DE2732C11644FA0009C2CD8 /* PBXTextBookmark */ = 8DE2732C11644FA0009C2CD8 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 8D6B0C3E1156DAE70021D44B /* Source Control */;
 		userBuildSettings = {
@@ -146,7 +159,7 @@
 		fRef = 8D6B0CCC11574B110021D44B /* KTInputViewController.h */;
 		name = "KTInputViewController.h: 33";
 		rLen = 0;
-		rLoc = 1122;
+		rLoc = 1144;
 		rType = 0;
 		vrLen = 1144;
 		vrLoc = 130;
@@ -247,17 +260,17 @@
 	};
 	8D6B0CCB11574B110021D44B /* KTInputViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {889, 1064}}";
-			sepNavSelRange = "{1595, 0}";
-			sepNavVisRange = "{0, 895}";
+			sepNavIntBoundsRect = "{{0, 0}, {889, 1092}}";
+			sepNavSelRange = "{642, 0}";
+			sepNavVisRange = "{309, 970}";
 			sepNavWindowFrame = "{{61, 68}, {1219, 623}}";
 		};
 	};
 	8D6B0CCC11574B110021D44B /* KTInputViewController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {889, 518}}";
-			sepNavSelRange = "{624, 0}";
-			sepNavVisRange = "{34, 1165}";
+			sepNavSelRange = "{354, 0}";
+			sepNavVisRange = "{34, 1182}";
 		};
 	};
 	8D90DC1D115C455C00D3728A /* KTOutputViewController.h */ = {
@@ -285,9 +298,9 @@
 	8D922F0A11604EA400C60974 /* KTInputTableViewController.m */ = {
 		uiCtxt = {
 			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4677, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4728, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4778, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6311}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {1062, 2982}}";
-			sepNavSelRange = "{2215, 0}";
-			sepNavVisRange = "{2040, 1320}";
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 2954}}";
+			sepNavSelRange = "{5993, 0}";
+			sepNavVisRange = "{413, 902}";
 		};
 	};
 	8D97471C1162C9DB000B20E1 /* PBXTextBookmark */ = {
@@ -314,7 +327,7 @@
 		ignoreCount = 0;
 		lineNumber = 42;
 		location = Krafttraining;
-		modificationTime = 291785018.881346;
+		modificationTime = 291786320.373692;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -323,7 +336,7 @@
 		fRef = 1D3623250D0F684500981E51 /* KrafttrainingAppDelegate.m */;
 		name = "KrafttrainingAppDelegate.m: 30";
 		rLen = 0;
-		rLoc = 1075;
+		rLoc = 940;
 		rType = 0;
 		vrLen = 1238;
 		vrLoc = 219;
@@ -363,7 +376,7 @@
 		fRef = 8D6B0CCB11574B110021D44B /* KTInputViewController.m */;
 		name = "KTInputViewController.m: 51";
 		rLen = 0;
-		rLoc = 1299;
+		rLoc = 1451;
 		rType = 0;
 		vrLen = 1066;
 		vrLoc = 372;
@@ -468,7 +481,7 @@
 		fRef = 8D6B0CCC11574B110021D44B /* KTInputViewController.h */;
 		name = "KTInputViewController.h: 22";
 		rLen = 0;
-		rLoc = 624;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 34;
@@ -478,7 +491,7 @@
 		fRef = 8D6B0CCB11574B110021D44B /* KTInputViewController.m */;
 		name = "KTInputViewController.m: 57";
 		rLen = 0;
-		rLoc = 1595;
+		rLoc = 1747;
 		rType = 0;
 		vrLen = 895;
 		vrLoc = 0;
@@ -512,5 +525,135 @@
 		rType = 0;
 		vrLen = 692;
 		vrLoc = 2117;
+	};
+	8DE2731911644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D90DC1E115C455C00D3728A /* KTOutputViewController.m */;
+		name = "KTOutputViewController.m: 81";
+		rLen = 0;
+		rLoc = 2435;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 1869;
+	};
+	8DE2731A11644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DC972D0115AE26C00163D36 /* KraftTraining.h */;
+		name = "KraftTraining.h: 32";
+		rLen = 0;
+		rLoc = 838;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 3;
+	};
+	8DE2731B11644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D922F0911604EA400C60974 /* KTInputTableViewController.h */;
+		name = "KTInputTableViewController.h: 21";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	8DE2731C11644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D922F0A11604EA400C60974 /* KTInputTableViewController.m */;
+		name = "KTInputTableViewController.m: 196";
+		rLen = 0;
+		rLoc = 6050;
+		rType = 0;
+		vrLen = 902;
+		vrLoc = 413;
+	};
+	8DE2731D11644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KrafttrainingAppDelegate.h */;
+		name = "KrafttrainingAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 627;
+		vrLoc = 0;
+	};
+	8DE2731E11644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KrafttrainingAppDelegate.m */;
+		name = "KrafttrainingAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 643;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 0;
+	};
+	8DE2731F11644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CCC11574B110021D44B /* KTInputViewController.h */;
+		name = "KTInputViewController.h: 15";
+		rLen = 0;
+		rLoc = 354;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 34;
+	};
+	8DE2732011644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CCB11574B110021D44B /* KTInputViewController.m */;
+		name = "KTInputViewController.m: 24";
+		rLen = 0;
+		rLoc = 658;
+		rType = 0;
+		vrLen = 891;
+		vrLoc = 34;
+	};
+	8DE2732111644E40009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CCB11574B110021D44B /* KTInputViewController.m */;
+		name = "KTInputViewController.m: 26";
+		rLen = 0;
+		rLoc = 656;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 207;
+	};
+	8DE2732911644FA0009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D90DC1D115C455C00D3728A /* KTOutputViewController.h */;
+		name = "KTOutputViewController.h: 32";
+		rLen = 0;
+		rLoc = 1013;
+		rType = 0;
+		vrLen = 1017;
+		vrLoc = 3;
+	};
+	8DE2732A11644FA0009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DC972D0115AE26C00163D36 /* KraftTraining.h */;
+		name = "KraftTraining.h: 32";
+		rLen = 0;
+		rLoc = 838;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 3;
+	};
+	8DE2732B11644FA0009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CCB11574B110021D44B /* KTInputViewController.m */;
+		name = "KTInputViewController.m: 26";
+		rLen = 0;
+		rLoc = 656;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 242;
+	};
+	8DE2732C11644FA0009C2CD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CCB11574B110021D44B /* KTInputViewController.m */;
+		name = "KTInputViewController.m: 27";
+		rLen = 0;
+		rLoc = 642;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 309;
 	};
 }

@@ -21,6 +21,12 @@
 @synthesize radioButtonsView;
 @synthesize navigationController;
 
+- (BOOL)textFieldShouldReturn:(UITextField *)textField {
+	if (textField == self.maximumWeight) {
+		[textField resignFirstResponder];
+	}
+		return YES;
+}
 
 - (IBAction)sliderChanged:(id)sender {
     self.maximumWeight.text = [NSString stringWithFormat:@"%.0f", slider.value];
