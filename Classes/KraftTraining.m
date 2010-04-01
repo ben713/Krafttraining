@@ -63,24 +63,11 @@
 		self.speed = @"slow";
 	}
 	
-//	self.iteration = [[NSArray alloc] initWithObjects:[NSNumber numberWithInt:minIteration], 
-//					  [NSNumber numberWithInt:maxIteration], 
-//					  nil];
-	
 	float minRangeWeight = [self getPercent:[self.maximumWeight floatValue] with:categoryMinPercent];
 	float maxRangeWeight = [self getPercent:[self.maximumWeight floatValue] with:categoryMaxPercent];
 	
 	self.minWeightOfRange = [NSNumber numberWithFloat:minRangeWeight];
-//	NSValue *minRangeWeightAsNSValue = self.minWeightOfRange;
 	self.maxWeightOfRange = [NSNumber numberWithFloat:maxRangeWeight];
-//	NSValue *maxRangeWeightAsNSValue = self.maxWeightOfRange;
-//	NSArray *weightRange = [NSArray arrayWithObjects: minRangeWeightAsNSValue, maxRangeWeightAsNSValue, nil];
-//	[minRangeWeightAsNSValue release];
-//	minRangeWeightAsNSValue = nil;
-//	[maxRangeWeightAsNSValue release];
-//	maxRangeWeightAsNSValue = nil;
-	
-//	return weightRange;
 }
 
 - (void) dealloc {

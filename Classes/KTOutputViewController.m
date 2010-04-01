@@ -1,4 +1,4 @@
-    //
+//
 //  KTOutputViewController.m
 //  Krafttraining
 //
@@ -40,11 +40,6 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
-//	self.maximumWeight.text = self.kt.maximumWeight.stringValue;
-//	self.minOfRange.text = self.kt.minWeightOfRange.stringValue;
-//	self.maxOfRange.text = self.kt.maxWeightOfRange.stringValue;
-//	self.category.text = self.kt.category;
-//	NSLog(@"KTOutputController viewDidLoad");
 }
 
 
@@ -66,8 +61,7 @@
 	} else {
 		self.category.text = @"aerobic strength endurance";
 	}
-//	self.category.text = self.kt.category;
-//	NSLog(@"KTOutputController viewWillAppear");
+
 }
 
 
@@ -85,27 +79,6 @@
     
     // Release any cached data, images, etc that aren't in use.
 }
-
-
-- (void)viewDidUnload {
-	[super viewDidUnload];
-    // Release any retained subviews of the main view.
-    // e.g. self.myOutlet = nil;
-	self.maximumWeight = nil;
-	self.minOfRange = nil;
-	self.maxOfRange = nil;
-	self.category = nil;
-	self.kt = nil;
-//	[self.view removeFromSuperview];
-}
-
-
-/*
-- (void)viewDidDisappear:(BOOL)animated {
-	[super viewDidDisappear:animated];
-	self.maximumWeight = nil;
-}
-*/
 
 - (void)dealloc {
 	[maximumWeight release];

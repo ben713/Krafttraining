@@ -22,17 +22,12 @@
 	self.navigationController = [[UINavigationController alloc] init];
 	self.navigationController.navigationBar.tintColor = [UIColor blackColor];
 	
-//	self.ktInputViewController = [[KTInputViewController alloc] initWithNibName:@"KTInputViewController" bundle:[NSBundle mainBundle]];
     // Override point for customization after application launch
 	// add top level controller
 	self.ktInputViewController = [[KTInputViewController alloc] init];
 	self.ktInputViewController.navigationController = self.navigationController;
 	self.ktInputViewController.title = @"Training Parameters";
 	[self.navigationController pushViewController:self.ktInputViewController animated:NO];
-//	UIView *inputView = [ktInputViewController view];
-//	[window addSubview:inputView];
-//	[inputView release];
-//	inputView = nil;
 	
 	[window addSubview:self.navigationController.view];
 	

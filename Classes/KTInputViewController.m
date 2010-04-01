@@ -34,7 +34,6 @@
 		category = [[NSString alloc] initWithString:@""];
 	}
 
-	// else category = @"kraftausdauer"
 	NSNumber *inputNSNumber = [[NSNumber alloc] initWithFloat:[self.maximumWeight.text floatValue]]; 
 	self.kt = [[KraftTraining alloc] init];
 	[self.kt calculate:inputNSNumber with:category];
@@ -48,7 +47,6 @@
 	self.outputController.kt = self.kt;
 	self.outputController.title = @"Commendations";
 	[self.navigationController pushViewController:self.outputController animated:YES];
-//	[self presentModalViewController:self.outputController animated:YES];
 	
 }
 
@@ -57,13 +55,6 @@
     [super viewDidLoad];
 	self.maximumWeight.text = [NSString stringWithFormat:@"80"];
 }
-
-/*
-- (void)viewDidUnload {
-	[super viewDidUnload];
-	slider = nil;
-}
-*/
  
 - (void)dealloc {
 	[maximumWeight release];
