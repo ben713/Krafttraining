@@ -1,0 +1,428 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* KrafttrainingAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 452}}";
+			sepNavSelRange = "{574, 0}";
+			sepNavVisRange = "{0, 627}";
+		};
+	};
+	1D3623250D0F684500981E51 /* KrafttrainingAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 756}}";
+			sepNavSelRange = "{1075, 0}";
+			sepNavVisRange = "{219, 1238}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Krafttraining */ = {
+		activeExec = 0;
+		executables = (
+			8D6B0C2E1156DAC70021D44B /* Krafttraining */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8D6B0C2E1156DAC70021D44B /* Krafttraining */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Krafttraining */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Krafttraining */,
+		);
+		breakpoints = (
+			8D9B8E87116408A900FAEE1E /* KTOutputViewController.m:43 */,
+		);
+		codeSenseManager = 8D6B0C3F1156DAE70021D44B /* Code sense */;
+		executables = (
+			8D6B0C2E1156DAC70021D44B /* Krafttraining */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					711,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					683,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291761899;
+			PBXWorkspaceStateSaveDate = 291761899;
+		};
+		perUserProjectItems = {
+			8D6B05461162FF1B00FCF657 /* PBXTextBookmark */ = 8D6B05461162FF1B00FCF657 /* PBXTextBookmark */;
+			8D6B0CAC115732420021D44B /* PBXTextBookmark */ = 8D6B0CAC115732420021D44B /* PBXTextBookmark */;
+			8D97471C1162C9DB000B20E1 /* PBXTextBookmark */ = 8D97471C1162C9DB000B20E1 /* PBXTextBookmark */;
+			8D9B8EEE11641F3900FAEE1E /* PBXTextBookmark */ = 8D9B8EEE11641F3900FAEE1E /* PBXTextBookmark */;
+			8D9B8F21116424AC00FAEE1E /* PBXTextBookmark */ = 8D9B8F21116424AC00FAEE1E /* PBXTextBookmark */;
+			8D9B8F5711642B8D00FAEE1E /* PBXTextBookmark */ = 8D9B8F5711642B8D00FAEE1E /* PBXTextBookmark */;
+			8D9B8F8711642F6800FAEE1E /* PBXTextBookmark */ = 8D9B8F8711642F6800FAEE1E /* PBXTextBookmark */;
+			8D9B8F9C1164324200FAEE1E /* PBXTextBookmark */ = 8D9B8F9C1164324200FAEE1E /* PBXTextBookmark */;
+			8D9B8F9D1164324200FAEE1E /* PBXTextBookmark */ = 8D9B8F9D1164324200FAEE1E /* PBXTextBookmark */;
+			8D9B8F9E1164324200FAEE1E /* PBXTextBookmark */ = 8D9B8F9E1164324200FAEE1E /* PBXTextBookmark */;
+			8D9B8F9F1164324200FAEE1E /* PBXTextBookmark */ = 8D9B8F9F1164324200FAEE1E /* PBXTextBookmark */;
+			8D9B8FA8116432CA00FAEE1E /* PBXTextBookmark */ = 8D9B8FA8116432CA00FAEE1E /* PBXTextBookmark */;
+			8DB6213A1159690A00354912 /* PBXTextBookmark */ = 8DB6213A1159690A00354912 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8D6B0C3E1156DAE70021D44B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 381}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 356}";
+		};
+	};
+	8D6B05461162FF1B00FCF657 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CCC11574B110021D44B /* KTInputViewController.h */;
+		name = "KTInputViewController.h: 33";
+		rLen = 0;
+		rLoc = 1174;
+		rType = 0;
+		vrLen = 1144;
+		vrLoc = 130;
+	};
+	8D6B0C2E1156DAC70021D44B /* Krafttraining */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			NSZombieEnabled,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Krafttraining;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fctrl = 1;
+			$fioff = 1;
+			$fiseg = 1;
+			$fooff = 1;
+			$fop = 1;
+			$foseg = 1;
+			$fs = 1;
+			$fstat = 1;
+			$ftag = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$ss = 1;
+		};
+	};
+	8D6B0C3E1156DAE70021D44B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8D6B0C3F1156DAE70021D44B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D6B0CAC115732420021D44B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CAD115732420021D44B /* UIViewController.h */;
+		name = "UIViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 0;
+	};
+	8D6B0CAD115732420021D44B /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	8D6B0CCB11574B110021D44B /* KTInputViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 1134}}";
+			sepNavSelRange = "{1484, 0}";
+			sepNavVisRange = "{372, 1066}";
+			sepNavWindowFrame = "{{61, 68}, {1219, 623}}";
+		};
+	};
+	8D6B0CCC11574B110021D44B /* KTInputViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 546}}";
+			sepNavSelRange = "{1174, 0}";
+			sepNavVisRange = "{130, 1144}";
+		};
+	};
+	8D90DC1D115C455C00D3728A /* KTOutputViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 490}}";
+			sepNavSelRange = "{1013, 0}";
+			sepNavVisRange = "{50, 970}";
+		};
+	};
+	8D90DC1E115C455C00D3728A /* KTOutputViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1512}}";
+			sepNavSelRange = "{1551, 0}";
+			sepNavVisRange = "{1318, 1291}";
+		};
+	};
+	8D922F0911604EA400C60974 /* KTInputTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 444}}";
+			sepNavSelRange = "{499, 0}";
+			sepNavVisRange = "{0, 524}";
+			sepNavWindowFrame = "{{15, 150}, {1219, 623}}";
+		};
+	};
+	8D922F0A11604EA400C60974 /* KTInputTableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4677, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4728, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4778, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6311}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 2982}}";
+			sepNavSelRange = "{2215, 0}";
+			sepNavVisRange = "{2040, 1320}";
+		};
+	};
+	8D97471C1162C9DB000B20E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KrafttrainingAppDelegate.h */;
+		name = "KrafttrainingAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 627;
+		vrLoc = 0;
+	};
+	8D9B8E87116408A900FAEE1E /* KTOutputViewController.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8D90DC1E115C455C00D3728A /* KTOutputViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = Krafttraining;
+		modificationTime = 291779225.314208;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8D9B8EEE11641F3900FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KrafttrainingAppDelegate.m */;
+		name = "KrafttrainingAppDelegate.m: 30";
+		rLen = 0;
+		rLoc = 1075;
+		rType = 0;
+		vrLen = 1238;
+		vrLoc = 219;
+	};
+	8D9B8F21116424AC00FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D922F0A11604EA400C60974 /* KTInputTableViewController.m */;
+		name = "KTInputTableViewController.m: 85";
+		rLen = 0;
+		rLoc = 2215;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 2040;
+	};
+	8D9B8F5711642B8D00FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DC972D0115AE26C00163D36 /* KraftTraining.h */;
+		name = "KraftTraining.h: 27";
+		rLen = 0;
+		rLoc = 697;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 3;
+	};
+	8D9B8F8711642F6800FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D922F0911604EA400C60974 /* KTInputTableViewController.h */;
+		name = "KTInputTableViewController.h: 21";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	8D9B8F9C1164324200FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D6B0CCB11574B110021D44B /* KTInputViewController.m */;
+		name = "KTInputViewController.m: 51";
+		rLen = 0;
+		rLoc = 1484;
+		rType = 0;
+		vrLen = 1066;
+		vrLoc = 372;
+	};
+	8D9B8F9D1164324200FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DC972D1115AE26C00163D36 /* KraftTraining.m */;
+		name = "KraftTraining.m: 62";
+		rLen = 0;
+		rLoc = 1714;
+		rType = 0;
+		vrLen = 1189;
+		vrLoc = 1488;
+	};
+	8D9B8F9E1164324200FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D90DC1D115C455C00D3728A /* KTOutputViewController.h */;
+		name = "KTOutputViewController.h: 32";
+		rLen = 0;
+		rLoc = 1013;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 50;
+	};
+	8D9B8F9F1164324200FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D90DC1E115C455C00D3728A /* KTOutputViewController.m */;
+		name = "KTOutputViewController.m: 55";
+		rLen = 0;
+		rLoc = 1563;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 1148;
+	};
+	8D9B8FA8116432CA00FAEE1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D90DC1E115C455C00D3728A /* KTOutputViewController.m */;
+		name = "KTOutputViewController.m: 54";
+		rLen = 0;
+		rLoc = 1551;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 1318;
+	};
+	8DB6213A1159690A00354912 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+	8DC972D0115AE26C00163D36 /* KraftTraining.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 490}}";
+			sepNavSelRange = "{697, 0}";
+			sepNavVisRange = "{3, 910}";
+		};
+	};
+	8DC972D1115AE26C00163D36 /* KraftTraining.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1169, 1260}}";
+			sepNavSelRange = "{631, 0}";
+			sepNavVisRange = "{163, 542}";
+			sepNavWindowFrame = "{{15, 150}, {1219, 623}}";
+		};
+	};
+}

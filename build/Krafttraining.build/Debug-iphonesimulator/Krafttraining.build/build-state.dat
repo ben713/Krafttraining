@@ -1,0 +1,585 @@
+TKrafttraining
+v7
+r0
+t291779223.917476
+cCheck dependencies
+cProcessInfoPlistFile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Info.plist Krafttraining-Info.plist
+cCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/MainWindow.xib
+cCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/KTInputViewController.xib
+cCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/KTOutputViewController.xib
+cProcessPCH /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch.gch Krafttraining_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/main.o /Users/benedikt/Development/iPhone/Krafttraining/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KrafttrainingAppDelegate.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputViewController.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KraftTraining.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTOutputViewController.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputTableViewController.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining normal i386
+cGenerateDSYMFile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app.dSYM /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining
+cTouch /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BA011B20000000000000110
+t1268781490
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B6BA5E8000000000026F020
+t1265346024
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B6BA6030000000000288B20
+t1265346051
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B6BA5F60000000000001355
+t1265346038
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B6BC0FA000000000000098F
+t1265352954
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B6BC203000000000211A810
+t1265353219
+s34711568
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m
+c000000004BA85CE200000000000000A8
+t1269325026
+s168
+i"UIView.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.h
+c000000004BA85CB90000000000000112
+t1269324985
+s274
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m
+c000000004BA85C6E00000000000000B1
+t1269324910
+s177
+i"InputView.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.h
+c000000004BB15236000000000000020C
+t1269912118
+s524
+i<UIKit/UIKit.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m
+c000000004BB2C62200000000000018A7
+t1270007330
+s6311
+i"KTInputTableViewController.h"
+i"KTInputViewController.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.xib
+c000000004BB017240000000000001C99
+t1269831460
+s7321
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.h
+c000000004BB2C6EF00000000000004FA
+t1270007535
+s1274
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.m
+c000000004BB3E1C0000000000000088A
+t1270079936
+s2186
+i"KTInputViewController.h"
+i"KTInputTableViewController.h"
+i"KTOutputViewController.h"
+i"KraftTraining.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.h
+c000000004BB3ED0200000000000003FC
+t1270082818
+s1020
+i<UIKit/UIKit.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.m
+c000000004BB3FB0F0000000000000D29
+t1270086415
+s3369
+i"KTOutputViewController.h"
+i"KraftTraining.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTViewController.h
+c000000004BA7147000000000000001E0
+t1269240944
+s480
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTViewController.m
+c000000004BA931C4000000000000023A
+t1269379524
+s570
+i"KTViewController.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.h
+c000000004BB3F4070000000000000391
+t1270084615
+s913
+i<Foundation/Foundation.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.m
+c000000004BB3F4FB0000000000000AA9
+t1270084859
+s2729
+i"KraftTraining.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.h
+c000000004BB2903C0000000000000273
+t1269993532
+s627
+i<UIKit/UIKit.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.m
+c000000004BB3E1D30000000000000606
+t1270079955
+s1542
+i"KrafttrainingAppDelegate.h"
+i"KTInputViewController.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/KTInputTableViewController.xib
+c000000004BB017240000000000001C99
+t1269831460
+s7321
+
+N/Users/benedikt/Development/iPhone/Krafttraining/KTInputViewController.xib
+c000000004BB2A72E0000000000008793
+t1269999406
+s34707
+
+N/Users/benedikt/Development/iPhone/Krafttraining/KTOutputViewController.xib
+c000000004BB3F6EA0000000000009C2B
+t1270085354
+s39979
+
+N/Users/benedikt/Development/iPhone/Krafttraining/KTViewController.h
+c000000004BA7134B00000000000000DF
+t1269240651
+s223
+i<UIKit/UIKit.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/KTViewController.m
+c000000004BA6EF3C0000000000000597
+t1269231420
+s1431
+i"KTViewController.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/KTViewController.xib
+c000000004BA99A1C0000000000007227
+t1269406236
+s29223
+
+N/Users/benedikt/Development/iPhone/Krafttraining/Krafttraining_Prefix.pch
+c000000004BA6A34700000000000000C3
+t1269211975
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/MainWindow.xib
+c000000004BB2BCCA0000000000004B25
+t1270004938
+s19237
+
+N/Users/benedikt/Development/iPhone/Krafttraining/UIView.h
+c000000004BA85CE200000000000000DD
+t1269325026
+s221
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/UIView.m
+c000000004BA85CE200000000000000A8
+t1269325026
+s168
+i"UIView.h"
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app
+t1270086423
+s340
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app.dSYM
+t1270086423
+s102
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Info.plist
+t1269228299
+s615
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTInputTableViewController.nib
+t1269821428
+s784
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTInputViewController.nib
+t1269999411
+s3086
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTOutputViewController.nib
+t1270085362
+s3247
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTViewController.nib
+t1269475836
+s2617
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining
+t1270086423
+s43528
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/MainWindow.nib
+t1270004939
+s984
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/PkgInfo
+t1269228299
+s8
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/InputView.o
+t2
+s0
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputTableViewController.o
+t1270007596
+s43088
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputViewController.o
+t1270084620
+s47668
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTOutputViewController.o
+t1270086423
+s45344
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTViewController.o
+t1269379531
+s35992
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KraftTraining.o
+t1270084861
+s18456
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/Krafttraining.LinkFileList
+c000000004BB28FDC00000000000003B6
+t1269993436
+s950
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KrafttrainingAppDelegate.o
+t1270079957
+s47036
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/UIView.o
+t2
+s0
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/main.o
+t1269228302
+s5964
+
+N/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/untitled.o
+t1269379466
+s33752
+
+N/Users/benedikt/Development/iPhone/Krafttraining/main.m
+c000000004BA6A3470000000000000164
+t1269211975
+s356
+i<UIKit/UIKit.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/untitled.h
+c000000004BA92BD600000000000000CF
+t1269378006
+s207
+i<UIKit/UIKit.h>
+
+N/Users/benedikt/Development/iPhone/Krafttraining/untitled.m
+c000000004BA9318900000000000005F6
+t1269379465
+s1526
+i"untitled.h"
+
+N/var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch.gch
+t1269228301
+s13756272
+
+NKrafttraining-Info.plist
+c000000004BA6A347000000000000038D
+t1269211975
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291779223#291779223#0(0"0(0#1#0"4300907768#0"0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/InputView.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291017849.106110
+e291017849.165941
+r0
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/InputView.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m:8:
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.h:11: error: cannot find interface declaration for 'NSView', superclass of 'InputView'
+lSLF07#2@76"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m291017849#291017849#0(248"In file included from /Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m:8:/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.h:11: error: cannot find interface declaration for 'NSView', superclass of 'InputView'1(4@73"Cannot find interface declaration for 'NSView', superclass of 'InputView'291017849#94#154#2(7@90"In file included from /Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m291017849#18446744073709551615#0#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m291017710#8#0#8#0#0"0(13@145"Cannot find interface declaration for 'NSView', superclass of 'InputView' in /Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.h291017849#18446744073709551615#0#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.h291017785#11#0#11#0#0"0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.h291017785#11#0#11#0#60"cannot find interface declaration for '*', superclass of '*'0(0#0#68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m4300907768#2105"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/InputView.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/InputView.o1#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputTableViewController.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291700396.757012
+e291700396.862097
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputTableViewController.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m:210: warning: property 'tableView' requires method '-tableView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m:210: warning: property 'tableView' requires the method 'setTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@93"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m291700396#291700396#0(461"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m:210: warning: property 'tableView' requires method '-tableView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m:210: warning: property 'tableView' requires the method 'setTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@126"Property 'tableView' requires method '-tableView' to be defined - use @synthesize, @dynamic or provide a method implementation291700396#0#227#0(6@85"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m291700130#210#0#210#0#0"0(22@133"Property 'tableView' requires the method 'setTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation291700396#227#234#0(6@85"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m291700130#210#0#210#0#0"0(0#0#85"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m4300907768#2139"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputTableViewController.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputViewController.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291777420.361282
+e291777420.510906
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputViewController.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.m291777420#291777420#0(0"0(0#0#80"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.m4300907768#2129"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputViewController.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTInputViewController.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTOutputViewController.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291779223.686598
+e291779223.856575
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTOutputViewController.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.m291779223#291779223#0(0"0(0#0#81"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.m4300907768#2131"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTOutputViewController.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTOutputViewController.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTViewController.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291072331.304270
+e291072331.446750
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTViewController.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTViewController.m291072331#291072331#0(0"0(0#0#75"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTViewController.m4300907768#2119"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTViewController.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTViewController.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTViewController.o /Users/benedikt/Development/iPhone/Krafttraining/KTViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290924567.990099
+e290924568.226601
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTViewController.o
+x/Users/benedikt/Development/iPhone/Krafttraining/KTViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/benedikt/Development/iPhone/Krafttraining/KTViewController.m290924567#290924568#0(0"0(0#0#67"/Users/benedikt/Development/iPhone/Krafttraining/KTViewController.m4300907768#2111"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/KTViewController.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KTViewController.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KraftTraining.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291777661.701042
+e291777661.851863
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KraftTraining.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.m291777661#291777661#0(0"0(0#0#72"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.m4300907768#2113"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/KraftTraining.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KraftTraining.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KrafttrainingAppDelegate.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291772757.346668
+e291772757.598036
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KrafttrainingAppDelegate.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.m291772757#291772757#0(0"0(0#0#83"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.m4300907768#2135"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/KrafttrainingAppDelegate.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/KrafttrainingAppDelegate.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/UIView.o /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291017849.107355
+e291017849.173288
+r0
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/UIView.o
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:8:
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h:11: error: duplicate interface declaration for class 'UIView'
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h:13: error: redefinition of 'struct UIView'
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'tag' requires method '-tag' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'tag' requires the method 'setTag:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'layer' requires method '-layer' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: incomplete implementation of class 'UIView'
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '+layerClass' not found
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: incomplete implementation of class 'UIView'
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '-initWithFrame:' not found
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: incomplete implementation of class 'UIView'
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '-initWithCoder:' not found
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '-encodeWithCoder:' not found
+o/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: class 'UIView' does not fully implement the 'NSCoding' protocol
+lSLF07#2@76"Compile /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017849#291017849#0(2231"In file included from /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:8:/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h:11: error: duplicate interface declaration for class 'UIView'/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h:13: error: redefinition of 'struct UIView'/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'tag' requires method '-tag' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'tag' requires the method 'setTag:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: property 'layer' requires method '-layer' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: incomplete implementation of class 'UIView'/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '+layerClass' not found/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: incomplete implementation of class 'UIView'/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '-initWithFrame:' not found/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: incomplete implementation of class 'UIView'/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '-initWithCoder:' not found/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: method definition for '-encodeWithCoder:' not found/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m:12: warning: class 'UIView' does not fully implement the 'NSCoding' protocol14(4@50"Duplicate interface declaration for class 'UIView'291017849#94#131#2(7@90"In file included from /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017849#18446744073709551615#0#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#8#0#8#0#0"0(13@122"Duplicate interface declaration for class 'UIView' in /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h291017849#18446744073709551615#0#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h291017826#11#0#11#0#0"0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h291017826#11#0#11#0#0"0(4@31"Redefinition of 'struct UIView'291017849#225#112#2(7@90"In file included from /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017849#18446744073709551615#0#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#8#0#8#0#0"0(13@103"Redefinition of 'struct UIView' in /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h291017849#18446744073709551615#0#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h291017826#13#0#13#0#0"0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.h291017826#13#0#13#0#19"redefinition of '*'0(22@159"Property 'userInteractionEnabled' requires the method 'setUserInteractionEnabled:' to be defined - use @synthesize, @dynamic or provide a method implementation291017849#337#242#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#0"0(22@114"Property 'tag' requires method '-tag' to be defined - use @synthesize, @dynamic or provide a method implementation291017849#579#197#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#0"0(22@121"Property 'tag' requires the method 'setTag:' to be defined - use @synthesize, @dynamic or provide a method implementation291017849#776#204#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#0"0(22@118"Property 'layer' requires method '-layer' to be defined - use @synthesize, @dynamic or provide a method implementation291017849#980#201#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#0"0(22@43"Incomplete implementation of class 'UIView'291017849#1181#126#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#38"incomplete implementation of class '*'0(22@45"Method definition for '+layerClass' not found291017849#1307#128#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#35"method definition for '*' not found0(22@43"Incomplete implementation of class 'UIView'291017849#1435#126#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithFrame:' not found291017849#1561#132#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#35"method definition for '*' not found0(22@43"Incomplete implementation of class 'UIView'291017849#1693#126#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithCoder:' not found291017849#1819#132#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#35"method definition for '*' not found0(22@51"Method definition for '-encodeWithCoder:' not found291017849#1951#134#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#35"method definition for '*' not found0(22@63"Class 'UIView' does not fully implement the 'NSCoding' protocol291017849#2085#146#0(6@68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m291017826#12#0#12#0#51"class '*' does not fully implement the '*' protocol0(0#0#68"/Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m4300907768#2102"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/Classes/../UIView.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/UIView.o1#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/UIView.o /Users/benedikt/Development/iPhone/Krafttraining/UIView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/main.o /Users/benedikt/Development/iPhone/Krafttraining/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290921102.140903
+e290921102.286953
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/main.o
+x/Users/benedikt/Development/iPhone/Krafttraining/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/benedikt/Development/iPhone/Krafttraining/main.m290921102#290921102#0(0"0(0#0#55"/Users/benedikt/Development/iPhone/Krafttraining/main.m4300907768#2087"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/main.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/untitled.o /Users/benedikt/Development/iPhone/Krafttraining/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291072265.905293
+e291072266.021172
+r1
+xCompileC
+xbuild/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/untitled.o
+x/Users/benedikt/Development/iPhone/Krafttraining/untitled.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/benedikt/Development/iPhone/Krafttraining/untitled.m291072265#291072266#0(0"0(0#0#59"/Users/benedikt/Development/iPhone/Krafttraining/untitled.m4300907768#2095"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -include /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch -c /Users/benedikt/Development/iPhone/Krafttraining/untitled.m -o /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/untitled.o0#
+
+CCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.xib
+s291514227.783794
+e291514228.473797
+r1
+xCompileXIB
+x/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.xib
+lSLF07#2@49"CompileXIB Classes/KTInputTableViewController.xib291514227#291514228#0(0"0(0#0#87"/Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.xib4300907768#556"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTInputTableViewController.nib /Users/benedikt/Development/iPhone/Krafttraining/Classes/KTInputTableViewController.xib0#
+
+CCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/KTInputTableViewController.xib
+r0
+
+CCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/KTInputViewController.xib
+s291692210.785843
+e291692211.238162
+r1
+xCompileXIB
+x/Users/benedikt/Development/iPhone/Krafttraining/KTInputViewController.xib
+lSLF07#2@36"CompileXIB KTInputViewController.xib291692210#291692211#0(0"0(0#0#74"/Users/benedikt/Development/iPhone/Krafttraining/KTInputViewController.xib4300907768#538"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTInputViewController.nib /Users/benedikt/Development/iPhone/Krafttraining/KTInputViewController.xib0#
+
+CCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/KTOutputViewController.xib
+s291778162.411581
+e291778163.048375
+r1
+xCompileXIB
+x/Users/benedikt/Development/iPhone/Krafttraining/KTOutputViewController.xib
+lSLF07#2@37"CompileXIB KTOutputViewController.xib291778162#291778163#0(0"0(0#0#75"/Users/benedikt/Development/iPhone/Krafttraining/KTOutputViewController.xib4300907768#540"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTOutputViewController.nib /Users/benedikt/Development/iPhone/Krafttraining/KTOutputViewController.xib0#
+
+CCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/KTViewController.xib
+s291168636.350382
+e291168636.864647
+r1
+xCompileXIB
+x/Users/benedikt/Development/iPhone/Krafttraining/KTViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@31"CompileXIB KTViewController.xib291168636#291168636#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#69"/Users/benedikt/Development/iPhone/Krafttraining/KTViewController.xib13229822128619624#528"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/KTViewController.nib /Users/benedikt/Development/iPhone/Krafttraining/KTViewController.xib0#
+
+CCompileXIB /Users/benedikt/Development/iPhone/Krafttraining/MainWindow.xib
+s291697739.551507
+e291697739.850969
+r1
+xCompileXIB
+x/Users/benedikt/Development/iPhone/Krafttraining/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291697739#291697739#0(0"0(0#0#63"/Users/benedikt/Development/iPhone/Krafttraining/MainWindow.xib4300907768#516"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/MainWindow.nib /Users/benedikt/Development/iPhone/Krafttraining/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app.dSYM /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining
+s291779223.889616
+e291779223.914038
+r1
+xGenerateDSYMFile
+x/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app.dSYM
+x/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Krafttraining.app.dSYM build/Debug-iphonesimulator/Krafttraining.app/Krafttraining291779223#291779223#0(0"0(0#0#108"/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining4300907768#431"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining -o /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app.dSYM0#
+
+CLd /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining normal i386
+s291779223.856686
+e291779223.889479
+r1
+xLd
+x/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining
+xnormal
+xi386
+lSLF07#2@113"Link /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining291779223#291779223#0(0"0(0#0#0"4300907768#942"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -filelist /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Objects-normal/i386/Krafttraining.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Krafttraining0#
+
+CProcessInfoPlistFile /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Info.plist Krafttraining-Info.plist
+s290921099.048511
+e290921099.115416
+r1
+xProcessInfoPlistFile
+x/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Info.plist
+xKrafttraining-Info.plist
+lSLF07#2@32"Process Krafttraining-Info.plist290921099#290921099#0(0"0(0#0#73"/Users/benedikt/Development/iPhone/Krafttraining/Krafttraining-Info.plist32651595521327200#527"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Krafttraining-Info.plist -genpkginfo /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app/Info.plist0#
+
+CProcessPCH /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch.gch Krafttraining_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290921100.529750
+e290921102.140630
+r1
+xProcessPCH
+x/var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch.gch
+xKrafttraining_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Krafttraining_Prefix.pch290921100#290921102#0(0"0(0#0#73"/Users/benedikt/Development/iPhone/Krafttraining/Krafttraining_Prefix.pch4300907768#1963"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-generated-files.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-own-target-headers.hmap -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-all-target-headers.hmap -iquote /Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/Krafttraining-project-headers.hmap -F/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator -I/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/include -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources/i386 -I/Users/benedikt/Development/iPhone/Krafttraining/build/Krafttraining.build/Debug-iphonesimulator/Krafttraining.build/DerivedSources -c /Users/benedikt/Development/iPhone/Krafttraining/Krafttraining_Prefix.pch -o /var/folders/nk/nkTZk2EsFeSSOMO74r-bMk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Krafttraining_Prefix-dhoojtsuxbwujcgeewuwqrzmkhlv/Krafttraining_Prefix.pch.gch0#
+
+CTouch /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app
+s291779223.914148
+e291779223.917419
+r1
+xTouch
+x/Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app
+lSLF07#2@100"Touch /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app291779223#291779223#0(0"0(0#0#0"4300907768#304"    cd /Users/benedikt/Development/iPhone/Krafttraining    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/benedikt/Development/iPhone/Krafttraining/build/Debug-iphonesimulator/Krafttraining.app0#
+
