@@ -29,6 +29,6 @@
 
 - (id)init;
 - (float) getPercent:(float)basicValue with:(float)percentage;
-- (NSArray *) calculate:(NSNumber *)maximumWeight with:(NSString *)category;
+- (void) calculate:(NSNumber *)maximumWeight with:(NSString *)category;
 
 @end

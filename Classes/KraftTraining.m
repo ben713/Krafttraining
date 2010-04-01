@@ -29,7 +29,7 @@
 	return (basicValue / 100) * percentage;
 }
 
-- (NSArray *)calculate:(NSNumber *)maximumWeightLocal with:(NSString *)categoryLocal {
+- (void)calculate:(NSNumber *)maximumWeightLocal with:(NSString *)categoryLocal {
 	self.maximumWeight = maximumWeightLocal;
 	self.category = categoryLocal;
 	float categoryMinPercent = 0.0;
@@ -71,16 +71,16 @@
 	float maxRangeWeight = [self getPercent:[self.maximumWeight floatValue] with:categoryMaxPercent];
 	
 	self.minWeightOfRange = [NSNumber numberWithFloat:minRangeWeight];
-	NSValue *minRangeWeightAsNSValue = self.minWeightOfRange;
+//	NSValue *minRangeWeightAsNSValue = self.minWeightOfRange;
 	self.maxWeightOfRange = [NSNumber numberWithFloat:maxRangeWeight];
-	NSValue *maxRangeWeightAsNSValue = self.maxWeightOfRange;
-	NSArray *weightRange = [NSArray arrayWithObjects: minRangeWeightAsNSValue, maxRangeWeightAsNSValue, nil];
-	[minRangeWeightAsNSValue release];
-	minRangeWeightAsNSValue = nil;
-	[maxRangeWeightAsNSValue release];
-	maxRangeWeightAsNSValue = nil;
+//	NSValue *maxRangeWeightAsNSValue = self.maxWeightOfRange;
+//	NSArray *weightRange = [NSArray arrayWithObjects: minRangeWeightAsNSValue, maxRangeWeightAsNSValue, nil];
+//	[minRangeWeightAsNSValue release];
+//	minRangeWeightAsNSValue = nil;
+//	[maxRangeWeightAsNSValue release];
+//	maxRangeWeightAsNSValue = nil;
 	
-	return weightRange;
+//	return weightRange;
 }
 
 - (void) dealloc {

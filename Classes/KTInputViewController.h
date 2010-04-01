@@ -20,7 +20,6 @@
 	KraftTraining *kt;
 	KTOutputViewController *outputController;
 	UINavigationController *navigationController;
-	NSArray *weightRange;
 }
 
 @property (nonatomic, retain) IBOutlet UITextField *maximumWeight;
@@ -30,7 +29,6 @@
 @property (nonatomic, retain) IBOutlet KTInputTableViewController *ktInputTableViewController;
 @property (nonatomic, retain) IBOutlet UITableView *radioButtonsView;
 @property (nonatomic, retain) UINavigationController *navigationController;
-@property (nonatomic, retain) NSArray *weightRange;
 
 - (IBAction)sliderChanged:(id)sender;
 - (IBAction)calculateTraining;

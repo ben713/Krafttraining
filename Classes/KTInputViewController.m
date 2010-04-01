@@ -20,7 +20,6 @@
 @synthesize ktInputTableViewController;
 @synthesize radioButtonsView;
 @synthesize navigationController;
-@synthesize weightRange;
 
 
 - (IBAction)sliderChanged:(id)sender {
@@ -38,8 +37,7 @@
 	// else category = @"kraftausdauer"
 	NSNumber *inputNSNumber = [[NSNumber alloc] initWithFloat:[self.maximumWeight.text floatValue]]; 
 	self.kt = [[KraftTraining alloc] init];
-	self.weightRange = [[NSArray alloc] initWithArray:[self.kt calculate:inputNSNumber with:category]]; 
-//	self.weightRange = [self.kt calculate:inputNSNumber with:category];
+	[self.kt calculate:inputNSNumber with:category];
 	[category release];
 	category = nil;
 	[inputNSNumber release];
@@ -75,7 +73,6 @@
 	[ktInputTableViewController release];
 	[radioButtonsView release];
 	[navigationController release];
-	[weightRange release];
 	[super dealloc];
 }
 
