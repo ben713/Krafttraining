@@ -46,8 +46,12 @@
 - (void)viewWillAppear:(BOOL)animated {
 	[super viewWillAppear:animated];
 	self.maximumWeight.text = self.kt.maximumWeight.stringValue;
-	self.minOfRange.text = self.kt.minWeightOfRange.stringValue;
-	self.maxOfRange.text = self.kt.maxWeightOfRange.stringValue;
+	NSNumber *minWOR = [[NSNumber alloc] initWithInt:[self.kt.minWeightOfRange intValue]];
+	self.minOfRange.text = minWOR.stringValue;
+	[minWOR release];
+	NSNumber *maxWOR = [[NSNumber alloc] initWithInt:[self.kt.maxWeightOfRange intValue]];
+	self.maxOfRange.text = maxWOR.stringValue;
+	[maxWOR release];
 	self.speed.text = self.kt.speed;
 	self.minIteration.text = self.kt.minIteration.stringValue;
 	self.maxIteration.text = self.kt.maxIteration.stringValue;
